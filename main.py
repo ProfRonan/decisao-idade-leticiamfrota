@@ -2,7 +2,6 @@ numero = int(input())
 
 if numero < 0:
     print('Impossível!')
-    print('Não precisa se alistar.')
 elif numero < 18:
     print('Não precisa se alistar.')
 elif numero > 18 and numero < 65:
